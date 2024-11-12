@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  char carName[] = "Volvo";
+  char carName[] = "Honda";
   int i;
   
   for (i = 0; i < 5; ++i) {
